@@ -109,7 +109,7 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 If you have questions about this Privacy Policy, please contact us at:
 
-**Email**: [Your Email Address]
+**Email**: azddin.anaddam@gmail.com
 
 ---
 
@@ -214,7 +214,7 @@ Nous pouvons mettre à jour cette Politique de Confidentialité. Nous vous infor
 
 Pour toute question concernant cette Politique de Confidentialité:
 
-**Email**: [Votre Adresse Email]
+**Email**: azddin.anaddam@gmail.com
 
 ---
 
