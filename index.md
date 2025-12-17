@@ -1,6 +1,6 @@
 # Privacy Policy for WordVault
 
-**Last Updated: December 17, 2024**
+**Last Updated: December 18, 2024**
 
 ---
 
@@ -53,7 +53,7 @@ For more information about how Google uses data, please visit: https://policies.
 **Daily Word Notifications**  
 Our App uses the following permissions to deliver daily vocabulary notifications:
 
-- **Exact Alarm Scheduling**: We schedule notifications at your preferred time each day to help you maintain a consistent learning routine
+- **Scheduled Exact Alarms** (SCHEDULE_EXACT_ALARM): We schedule notifications at your preferred time each day to help you maintain a consistent learning routine. This permission allows us to deliver timely reminders for your vocabulary learning.
 - **Boot Completion**: We reschedule your daily notifications when your device restarts to ensure you don't miss your learning reminders
 - **Notification Display**: We display notifications to remind you to learn new words
 
@@ -176,7 +176,7 @@ Pour plus d'informations sur l'utilisation des données par Google: https://poli
 **Notifications Quotidiennes de Mots**  
 Notre application utilise les autorisations suivantes pour envoyer des notifications quotidiennes de vocabulaire:
 
-- **Planification d'Alarmes Exactes**: Nous planifions des notifications à votre heure préférée chaque jour pour vous aider à maintenir une routine d'apprentissage cohérente
+- **Alarmes Exactes Programmées** (SCHEDULE_EXACT_ALARM): Nous planifions des notifications à votre heure préférée chaque jour pour vous aider à maintenir une routine d'apprentissage cohérente. Cette autorisation nous permet de fournir des rappels opportuns pour votre apprentissage du vocabulaire.
 - **Redémarrage de l'Appareil**: Nous replanifions vos notifications quotidiennes lorsque votre appareil redémarre pour vous assurer de ne pas manquer vos rappels d'apprentissage
 - **Affichage de Notifications**: Nous affichons des notifications pour vous rappeler d'apprendre de nouveaux mots
 
