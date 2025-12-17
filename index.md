@@ -1,6 +1,6 @@
 # Privacy Policy for WordVault
 
-**Last Updated: December 7, 2024**
+**Last Updated: December 17, 2024**
 
 ---
 
@@ -47,6 +47,20 @@ For more information about how Google uses data, please visit: https://policies.
 - To display relevant advertisements
 - To measure ad performance
 - To provide free access to the App
+
+### Notifications and Alarms
+
+**Daily Word Notifications**  
+Our App uses the following permissions to deliver daily vocabulary notifications:
+
+- **Exact Alarm Scheduling**: We schedule notifications at your preferred time each day to help you maintain a consistent learning routine
+- **Boot Completion**: We reschedule your daily notifications when your device restarts to ensure you don't miss your learning reminders
+- **Notification Display**: We display notifications to remind you to learn new words
+
+**Important**: 
+- All notification preferences are stored locally on your device
+- You can disable notifications at any time through your device settings or within the App
+- We do not collect or transmit any data about your notification interactions
 
 ### Data Storage and Security
 
@@ -109,7 +123,7 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 If you have questions about this Privacy Policy, please contact us at:
 
-**Email**: azddin.anaddam@gmail.com
+**Email**: [azddin.anaddam@gmail.com]
 
 ---
 
@@ -156,6 +170,20 @@ Pour plus d'informations sur l'utilisation des données par Google: https://poli
 - Pour afficher des publicités pertinentes
 - Pour mesurer les performances publicitaires
 - Pour fournir un accès gratuit à l'application
+
+### Notifications et Alarmes
+
+**Notifications Quotidiennes de Mots**  
+Notre application utilise les autorisations suivantes pour envoyer des notifications quotidiennes de vocabulaire:
+
+- **Planification d'Alarmes Exactes**: Nous planifions des notifications à votre heure préférée chaque jour pour vous aider à maintenir une routine d'apprentissage cohérente
+- **Redémarrage de l'Appareil**: Nous replanifions vos notifications quotidiennes lorsque votre appareil redémarre pour vous assurer de ne pas manquer vos rappels d'apprentissage
+- **Affichage de Notifications**: Nous affichons des notifications pour vous rappeler d'apprendre de nouveaux mots
+
+**Important**: 
+- Toutes les préférences de notification sont stockées localement sur votre appareil
+- Vous pouvez désactiver les notifications à tout moment via les paramètres de votre appareil ou dans l'application
+- Nous ne collectons ni ne transmettons aucune donnée concernant vos interactions avec les notifications
 
 ### Stockage et Sécurité des Données
 
@@ -214,7 +242,7 @@ Nous pouvons mettre à jour cette Politique de Confidentialité. Nous vous infor
 
 Pour toute question concernant cette Politique de Confidentialité:
 
-**Email**: azddin.anaddam@gmail.com
+**Email**: [azddin.anaddam@gmail.com]
 
 ---
 
@@ -243,6 +271,20 @@ Pour toute question concernant cette Politique de Confidentialité:
 
 - Data is encrypted in transit
 - Users can request data deletion
+
+### Permissions Used
+
+**Notifications**
+- Purpose: Send daily word learning reminders
+- Data: Notification preferences stored locally only
+
+**Exact Alarms**
+- Purpose: Schedule notifications at precise times
+- Data: Alarm schedules stored locally only
+
+**Boot Completion**
+- Purpose: Restore notification schedules after device restart
+- Data: No data collected
 
 ### Data Deletion
 
