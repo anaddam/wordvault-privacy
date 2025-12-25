@@ -1,6 +1,6 @@
 # Privacy Policy for WordVault
 
-**Last Updated: December 18, 2024**
+**Last Updated: December 25, 2024**
 
 ---
 
@@ -87,7 +87,7 @@ Our App uses the following third-party services:
 #### Ad Types
 
 - **Banner Ads**: Displayed on the home screen
-- **Interstitial Ads**: Shown when switching categories
+- **Interstitial Ads**: Shown when viewing next word
 - **Rewarded Ads**: Optional ads for bonus quiz content
 
 #### Ad Personalization
@@ -206,7 +206,7 @@ Notre application utilise les services tiers suivants:
 #### Types de Publicités
 
 - **Bannières**: Affichées sur l'écran d'accueil
-- **Publicités Interstitielles**: Affichées lors du changement de catégorie
+- **Publicités Interstitielles**: Affichées lors du passage au mot suivant
 - **Publicités Récompensées**: Publicités optionnelles pour du contenu bonus
 
 #### Personnalisation des Publicités
